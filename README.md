@@ -1,3 +1,5 @@
+![AutoBLUR Logo](https://github.com/philip-hawkins-git/AutoBLUR/blob/main/AutoBLUR_Banner.png)
+
 # AutoBLUR: Automated Brand Obfuscation Tool
 AutoBLUR is an advanced tool designed to automate the process of removing identifiable brand elements from video content. It is particularly useful for market research and memorability testing, where unbiased recall of brand information is crucial.
 
